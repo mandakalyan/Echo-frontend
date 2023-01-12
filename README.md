@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Vandana - MyEcho
+# Kalyan - MyEcho
 =======
 # Getting Started with Create React App
 
